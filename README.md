@@ -1,4 +1,4 @@
-# <p>  <b>Cellpose Applied to Elongated Data </b> </p>
+# <p>  <b>StarPose - Cellpose Applied to Elongated Data </b> </p>
 ## <p>  <b>CSCI 3317 Final Project - Steven Roche, Daniel Kim, Julian Castro </b> </p>
 
 This repo was cloned from Cellpose. For Cellpose documentation and installation instructions, follow the fork link. 
