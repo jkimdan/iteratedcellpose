@@ -10,14 +10,14 @@ Our fine-tuned models are located in `iteratedcellpose/CSCSI3317_final_project/m
 
 [The final paper for this project can be found here.](https://github.com/user-attachments/files/16365709/StarPoseFinalReport.pdf)
 <p align="center">
-  <img width="300" alt="Screenshot 2024-07-24 at 1 43 14 PM" src="https://github.com/user-attachments/assets/493acfbc-4c78-44fa-84fa-164df262d36c">
-  <img width="300" alt="Screenshot 2024-07-24 at 1 43 49 PM" src="https://github.com/user-attachments/assets/a42c5234-e945-47e0-bb33-75b928d5a02b">
-  <img width="303" alt="Screenshot 2024-07-24 at 1 46 59 PM" src="https://github.com/user-attachments/assets/cde7096d-2e50-46d1-8a4c-f49bf2643609">
+  <img width="200" alt="Screenshot 2024-07-24 at 1 43 14 PM" src="https://github.com/user-attachments/assets/493acfbc-4c78-44fa-84fa-164df262d36c">
+  <img width="200" alt="Screenshot 2024-07-24 at 1 43 49 PM" src="https://github.com/user-attachments/assets/a42c5234-e945-47e0-bb33-75b928d5a02b">
+  <img width="202" alt="Screenshot 2024-07-24 at 1 46 59 PM" src="https://github.com/user-attachments/assets/cde7096d-2e50-46d1-8a4c-f49bf2643609">
 </p>
 
 [The slide deck for this project can be found here.](https://github.com/user-attachments/files/16365824/StarPoseSlideDeck.pdf)
 <p align="center">
-<img width="400" alt="Screenshot 2024-07-24 at 1 52 24 PM" src="https://github.com/user-attachments/assets/fb5e6895-b8c7-4937-86e6-9dd664c11546">
+<img width="300" alt="Screenshot 2024-07-24 at 1 52 24 PM" src="https://github.com/user-attachments/assets/fb5e6895-b8c7-4937-86e6-9dd664c11546">
 </p>
 
 
